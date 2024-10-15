@@ -6,11 +6,7 @@ The Clay Pots website is designed to make it easy for users to discover, explore
 
 # Key Features
 **Diverse Product Range:**
-Cooking Pots (Clay Pot Cooking)
-Stone Ware
-Flame Ware
-China
-Earthen Ware
+Cooking Pots (Clay Pot Cooking), Stone Ware, Flame Ware, China, Earthen Ware
 
 **User-Friendly Interface:**
 Seamless navigation with clearly defined sections: Home, About, Gallery, Contact, and Order.
