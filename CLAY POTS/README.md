@@ -21,7 +21,9 @@ Users can place orders and pay securely upon delivery.
 # 🍲 Benefits of Clay Pots
 
 Healthier Cooking: Clay pots naturally enhance flavors, preserve nutrients, and reduce the need for excess oils.
+
 Sustainability: Environmentally friendly and biodegradable, clay pots offer a green alternative to modern cookware.
+
 Tradition Meets Innovation: Enjoy the time-honored benefits of clay cooking in a modern, stylish design.
 
 # 💻 Technologies Used
